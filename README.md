@@ -1,1 +1,0 @@
-# htb-starting-point-notes
